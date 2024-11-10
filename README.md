@@ -5,7 +5,7 @@
 
 這些模組不隸屬於 Among Us 或 Innersloth LLC，其包含的內容也未得到 Innersloth LLC 的認可或以其他方式贊助。此處包含的部分材料是Innersloth LLC的財產。</p>
 <p align="center">
-  致其他模組開發者：要使用我們的程式碼，請閱讀並尊重<a href="#license">許可證</a></p>
+  致其他模組開發者：要使用我們的程式碼，請閱讀並尊重<a href="#許可證">許可證</a></p>
 
 [![Discord](./Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
 ![eisbison infographic](./Images/TOR_Roles.png)
@@ -41,15 +41,15 @@
 [職業分配](#職業分配) 部分解釋了職業如何分配.
 
 # 發佈
-| Among Us - 版本| 模組 | 鏈結 |
+| Among Us - 版本| 模組版本 | 連結 |
 |----------|-------------|-----------------|
 | 2024.6.18s| v4.6.0| [Download](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.6.0/TheOtherRoles.zip)
 | 2024.3.5s| v4.5.3| [Download](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.3/TheOtherRoles.zip)
 
 <details>
-  <summary>Click to show older versions</summary>
+  <summary>點擊來查看舊版本</summary>
   
-| Among Us - Version| Mod Version | Link |
+| Among Us - 版本| 模組版本 | 連結 |
 |----------|-------------|-----------------|
 | 2024.3.5s| v4.5.2| [Download](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.2/TheOtherRoles.zip)
 | 2023.11.28s| v4.5.1| [Download](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.1/TheOtherRoles.zip)
@@ -131,7 +131,7 @@
 </details>
   
   
-# Changelog
+# 變更日誌
 <details>
   <summary>Click to show the Changelog</summary>
   
@@ -2259,7 +2259,7 @@ VIP會在他死時向所有人發出類似於靈媒閃光的閃爍。\
 If the error message "Fatal Error in GC - Collecting from unknown thread" stops you from playing the game, you can now disable the mod-updater, which causes this error.
 In order to do this, create a file called `noupdater.txt` in your modded Among Us folder.
 
-# License
+# 許可證
 TheOtherRolesAU/TheOtherRoles is licensed under the
 
 [GNU General Public License v3.0](https://github.com/TheOtherRolesAU/TheOtherRoles/blob/main/LICENSE)
