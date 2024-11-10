@@ -1,7 +1,7 @@
 ![eisbison banner](./Images/TOR_logo.png)
 <p align="center"><a href="https://github.com/Eisbison/TheOtherRoles/releases/"><img src="https://badgen.net/github/release/eisbison/theotherroles"></a></p>
 
-[![zh_tw](https://img.shields.io/static/v1?label=lang&message=%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87&color=blue&style=for-the-badge)](./README.zh_tw.md)
+[![zh_tw](https://img.shields.io/static/v1?label=lang&message=%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87&color=blue&style=for-the-badge)](./README.md)
 
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.</p>
 <p align="center">
