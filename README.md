@@ -131,12 +131,12 @@
 </details>
   
   
-# 變更日誌
+# 變更紀錄
 <details>
-  <summary>Click to show the Changelog</summary>
+  <summary>點擊查看變更紀錄</summary>
   
   
-** Version 4.6.0**
+** 版本 4.6.0**
 - Updated to Among Us version 2024.6.18 (Vanilla Update with new UI elements and many Server Side Changes)
 - Added a completely new UI for the Mod's Options, using the new Vanilla Design.
 - Added a button to switch gamemodes in the lobby
@@ -149,7 +149,7 @@
 - Experimental: Advanded users can try to install the mod on the Windows Store Version of Among Us. No Support Provided!
 
   
-**Version 4.5.3**
+**版本 4.5.3**
 - Added a new role: Yo-Yo (Impostor) - Mark and blink to a position, then blink back to the start of the blink!
 - Added a new option to Jackal And Sidekick: Jackal / Sidekick can sabotage lights (cooldown syncs with Imp Sabotages)
 - Added a new option: Block Dead Impostor From Sabotaging
@@ -162,7 +162,7 @@
 - Changed trapper trap: is now visible with transparency to the trapper while inactive
   
   
- **Version 4.5.2**
+ **版本 4.5.2**
 - Updated to Among Us version 2024.3.5s (various small / "long" features and bugfixes)
 - Updated BepInEx dependency to 688
 - Added a new feature: Stop the game start (With an option to allow any player to stop it)
@@ -172,10 +172,10 @@
 - Changed the medic shield: Is now also displayed in meetings to players who can see it with brackets around the name
 
   
-**Version 4.5.1**
+**版本 4.5.1**
 - Fix a bug that lead to Props not being able to use the disguise button
 
-**Version 4.5.0**
+**版本 4.5.0**
 - Updated to Among Us version 2023.11.28 (with the new map, Fungle)
 - Added a new feature: Show Vents on Map (toggle in your local options)
 - Added a new kill distance: Very Short (thanks twix)
@@ -187,25 +187,25 @@
 - Changed the Vampire: Kills will be delayed a bit longer if the target is using a ladder, platform or zipline
 - Note: Compatibility with Submerged and LevelImposter is not tested yet.
 
-**Version 4.4.2**
+**版本 4.4.2**
 - Added 10 new colors and adapted some existing ones (thanks to Avlona & Listoric for sorting our colors!)
 - Added a message of the day feature in the main menu. Look out for interesting news and lame jokes!
 
-**Version 4.4.1**
+**版本 4.4.1**
 - Fixed a bug where PropHunt buttons did not work for the Hunters after watching the intro cutscene.
 
 **Version 4.4.0**
 - Added a new gamemode, PropHunt. Players can disguise as objects on the map
 - Changed Lighter and Darker colors: L/D are no longer random, but rather assigned in alternating order.
 
-**Version 4.3.4**
+**版本 4.3.4**
 - Updated BepInEx dependency to 671
 - Fixed compatibility to Submerged (not thouroughly tested)
 - Fixed a bug where the death reason of a guessed shifter was incorrectly displayed as "shifted xy"
 - Make it possible to disable the Mod-Updater (see [details](#gcerror) ), to circumvent a crash at startup with a GC-Error
 - Fixed the hats in freeplay partially
 
-**Version 4.3.3**
+**版本 4.3.3**
 - Updated to Among Us version 2023.07.12
 - Fixed an issue where the swap icon of a swapper guesser would be in front of the witch icon on a spelled player 
 - Fixed an issue where haunting was impossible in vanilla Hide'n'Seek
@@ -214,7 +214,7 @@
 - Fixed a bug where placing a garlic would convert a random player into a horse for the rest of the round
 - Changed the Eraser Guesser: Jackal and Sidekick are no longer guessable after being fake-"erased"
   
-**Version 4.3.2**
+**版本 4.3.2**
 - Added new option to Thief: Can Guess To Steal Role
 - Added new option to Guesser Mode: Force Thief Guesser
 - Added the death reason to the additional infos for ghosts.
@@ -227,7 +227,7 @@
 - Fixed a bug where the bomb could explode in a meeting due to desync and bad timing
 - Fixed a bug where the host Eraser could guess erased players
 
-**Version 4.3.1**
+**版本 4.3.1**
 - Added new options (Information mode - Chat/Map/Both, Roles - Evil Killing / Evil)  to the snitch and fixed bugs affecting the snitch
 - Changed the maximum amount per modifier to 15 (where applicable)
 - Changed the colorblind text and player name to be behind certain objects again (rock on Polus etc.)
@@ -240,7 +240,7 @@
 - Fixed a bug where the mayor would always have the mobile emergency button, no matter which setting was selected 
 
 
-**Version 4.3.0**
+**版本 4.3.0**
 - Updated to Among Us version 2023.2.28
 - Added a new role: [Bomber](#炸彈客)
 - Added more information for ghosts (e.g. who is cuffed, witched, ninja marked etc.), can be turned off in the mod options menu
@@ -258,7 +258,7 @@
 - Fixed a bug where entering a custom server manually did not work anymore (+ nicer UI for entering a custom server)
 - Fixed a bug where a witch-spelled prosecutor would not win if their target was voted
   
-**Version 4.2.1**
+**版本 4.2.1**
 - Updated to Among Us version 2022.12.14
 - Added a new option for random maps: Use Random Map Setting Presets, see [random maps](#隨機地圖)
 - Added the possibility to play the Vanilla Hide 'n' Seek mode
@@ -269,7 +269,7 @@
 - Fixed a bug where the prosecutor did not promote to pursuer when the target is Witch exiled
 - Removed Horse Mode (for now)
 
-**Version 4.2.0**
+**版本 4.2.0**
 - Added a new Guesser-Gamemode
 - Added a new Hide 'n Seek-Gamemode | Thanks to [Oberbayer](https://twitch.tv/oberbayer)
 - Added a new role for Hide 'n Seek-Gamemode: Hunter
@@ -295,10 +295,10 @@
 - Fixed a bug where Lawyer didn't get promoted to Pursuer when client died (in a Meeting)
 - Fixed a bug in Meetings when a Tiebreaker and Swapper where involved
 
-**Version 4.1.7**
+**版本 4.1.7**
 - Updated to Among Us version 2022.8.24
 
-**Version 4.1.6**  
+**版本 4.1.6**  
 - Added Sound Effects: Most buttons / role funcionalities now have a sound!
 - Added a mod option: Enable Sound Effects  
 - Added an option: Hide After Death Modifiers: Modifiers which will have an effect after your death will be hidden while the player is alive so they cant be claimed / called
@@ -316,7 +316,7 @@
 - Fixed a bug where a guessed Guesser could still guess if they had the guesser ui open
 - Fixed a bug where the role assignment did not work properly (fingers crossed)
 
-**Version 4.1.5**
+**版本 4.1.5**
 - Updated to Among Us version 2022.6.21
 - Added Custom servers (Modded EU & Modded NA). Thanks to [miniduikboot](https://github.com/miniduikboot) & GD
 - Changed that the Guesser can only guess roles > 0%
@@ -331,7 +331,7 @@
 - Fixed a bug where players with Anti TP were stuck on Airship 
 - Removed streamer mode
   
-**Version 4.1.4**
+**版本 4.1.4**
 - Added auto updating for BepInEx
 - Fixed hat testing in freeplay for meetings / exile etc.
 - Fixed players not being able to move
@@ -342,12 +342,12 @@
 - Fixed the double mod stamp being shown in game
 - Further improvements towards rubberbanding
 
-**Version 4.1.3**
+**版本 4.1.3**
 - Fixed morphling's being morphed during meetings
 - Fixed hide player names hiding the player's name during meetings
 - Added an option to the mayor: "Number Of Remote Meetings", so that the amount of mobile meetings is limited.
 
-**Version 4.1.2**
+**版本 4.1.2**
 - Made some general performance fixes. Special thanks to [probablyadnf](https://github.com/simonkellly)
 - Added an option to the ninja to get invisible after kill for x-seconds
 - Added a zoom out/overview function if you're dead and done with tasks
@@ -357,7 +357,7 @@
 - Fixed multiple mod icons being shown when Submerged is loaded
 
 
-**Version 4.1.1**
+**版本 4.1.1**
 - Fixed a bug where the download submerged button did not work
 - Fixed a bug where the medium revealed a evil mini
 - Fixed a bug where the teleporter teleported while meeting is called
@@ -365,14 +365,14 @@
 - Fixed the Popup  
 - Fixed some ui bugs  
   
-**Version 4.1.0**
+**版本 4.1.0**
 - Added support for the Submerged map (https://github.com/SubmergedAmongUs/Submerged), which can be downloaded ingame with the Update button. If there is also a mod update, it will be prioritized
 - Added an option to give the Mayor a portable Meeting Button
 - Fixed a bug where the Lawyer didn't die with their client when voted out
 - Removed Lawyer option "Wins after Meetings"
 - Changed Medium question if the killer of a body is the Mini, the medium can now randomly ask the role question
   
-**Version 4.0.0**
+**版本 4.0.0**
 - Added new role [Ninja](#忍者) thanks [gendelo3](https://github.com/gendelo3)
 - Added new role [Portalmaker](#傳送師) thanks [gendelo3](https://github.com/gendelo3)
 - Added option Shield Last Round First Kill (until the first meeting)
@@ -791,83 +791,80 @@
 
 # 安裝
 
-## Windows Installation Steam
-1. Download the newest [release](https://github.com/Eisbison/TheOtherRoles/releases/latest)
-2. Find the folder of your game. You can right click on the game in your library, a menu will appear, click on properties, local data, browse
-3. Go back one folder to common and make a copy of your Among Us game folder and paste it somewhere on the same drive.
-4. Now unzip and drag or extract the files from the .zip into your Among Us game folder that you just copied, at the `.exe` level (just into the folder).
-5. Run the game by starting the .exe from this folder (the first launch might take a while).
+## Windows 安裝 Steam
+1. 下載最新[版本](https://github.com/Eisbison/TheOtherRoles/releases/latest)
+2. 找到你的遊戲的資料夾。您可以右鍵單擊庫中的遊戲，會出現一個選單，單擊屬性，本地數據，瀏覽
+3. 返回 common 資料夾並複製您的“Among Us”遊戲資料夾並將其貼上到同一磁碟機上的某個位置。
+4. 現在解壓縮並將檔案從 .zip 拖曳到您剛剛複製的「Among Us」遊戲資料夾中.exe（就在資料夾中）。
+5. 透過從此資料夾啟動 .exe 來運行遊戲（首次啟動可能需要一段時間）。
 
-Not working? You might want to install the dependency [vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe)
+不工作？您可能想要安裝依賴項[vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
-## Windows Installation Epic
-1. Download the newest [release](https://github.com/Eisbison/TheOtherRoles/releases/latest)
-2. Find the folder of your game. Should be stored in "Epic/AmongUs" (wherever you installed Epic on your PC)
-3. Now unzip and drag or extract the files from the .zip into the original Epic Among Us game folder.
-4. Run the game by starting the game in your Epic Games launcher (the first launch might take a while).
+## Windows 安裝 Epic
+1. 下載最新[版本](https://github.com/Eisbison/TheOtherRoles/releases/latest)
+2. 找到你的遊戲的資料夾。應儲存在「Epic/AmongUs」中（無論您在 PC 上安裝 Epic 的位置）
+3. 現在解壓縮並將 .zip 中的檔案拖曳或解壓縮到原始 Epic Within Us 遊戲資料夾中。
+4. 透過在 Epic Games 啟動器中啟動遊戲來運行遊戲（首次啟動可能需要一段時間）。
 
-Not working? You might want to install the dependency [vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe)
+不工作？您可能想要安裝依賴項[vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
 ![Install](https://i.imgur.com/pvBAyZN.png)
 
-## Linux Installation
-1. Install Among Us via Steam
-2. Download newest [release](https://github.com/Eisbison/TheOtherRoles/releases/latest) and extract it to ~/.steam/steam/steamapps/common/Among Us
-3. Enable winhttp.dll via the proton winecfg (https://docs.bepinex.dev/articles/advanced/proton_wine.html)
-4. Launch the game via Steam
+## Linux 安裝
+1. 透過Steam在Among Us安裝
+2. 下載最新[版本](https://github.com/Eisbison/TheOtherRoles/releases/latest) 並將其解壓縮到 ~/.steam/steam/steamapps/common/Among Us
+3. 透過 proton winecfg 啟用 winhttp.dll (https://docs.bepinex.dev/articles/advanced/proton_wine.html)
+4. 透過Steam啟動遊戲
 
-## The Other Roles Custom Servers
-**A custom server is not necessary and official servers are working just fine with the mod, but in case you want to set up and host your own server, here's a guide for you to follow.**
+## The Other Roles 自訂伺服器
+**自訂伺服器不是必需的，官方伺服器不能很好地與該模組配合使用，但模組會自動幫你莊皓伺服器，但如果您想設定和託管自己的伺服器，請遵循以下指南。**
 
-**Setup the Server:**
-1. Get the Impostor release (https://github.com/Impostor/Impostor)
-2. Follow the steps (using the server release you just downloaded) on the official Impostor-Documentation (https://github.com/Impostor/Impostor/wiki/Running-the-server)
-3. Make sure to set the following values to false in the config.json file:
+**設定伺服器:**
+1. 取得 Impostor 版本 (https://github.com/Impostor/Impostor)
+2. 依照官方 Impostor 文件 ( https://github.com/Impostor/Impostor/wiki/Running-the-server )上的步驟操作（使用您剛下載的伺服器版本）
+3. 確保在 config.json 檔案中將以下值設為 false：
 ```    ...
      'AntiCheat': {
        'Enabled': false,
       'BanIpFromGame': false
     }
 ```
-4. Make sure to forward the right ports on the hosting machine.
-5. Run the server and setup the client.
-Setting up Server as Docker Container:
-If you want to run the server as a docker container you'll need to use the image
-aeonlucid/impostor:nightly
+4. 確保在主機上轉送正確的連接埠
+5. 運行伺服器並設定客戶端。將伺服器設定為 Docker 容器：如果要將伺服器作為 Docker 容器運行，則需要使用映像 aeonlucid/impostor:nightly
 
-(Currently only the 'nightly' tag is starting a server supporting 2021.3.31 or later)
-In addition to running it we need to set the environment variables to disable the AntiCheat feature.
+（目前只有「nightly」標籤啟動支援 2021.3.31 或更高版本的伺服器）
+除了執行它之外，我們還需要設定環境變數以停用 AntiCheat 功能。
 IMPOSTOR_AntiCheatEnabled=false
 IMPOSTOR_AntiCheatBanIpFromGame=false
 
-Example to docker run command:
+docker run 指令範例:
 docker run -p 22023:22023/udp --env IMPOSTOR_AntiCheatEnabled=false --env IMPOSTOR_AntiCheatBanIpFromGame=false aeonlucid/impostor:nightly
 
-Or use to run it in the background
+或使用在後台運行它
 docker run -d -p 22023:22023/udp --env IMPOSTOR_AntiCheatEnabled=false --env IMPOSTOR_AntiCheatBanIpFromGame=false aeonlucid/impostor:nightly
 
-**If you have any problems regarding custom servers, please contact https://github.com/Impostor/Impostor or https://discord.gg/ThJUGAsz**
+**如果您對自訂伺服器有任何問題，請聯絡https://github.com/Impostor/Impostor或https://discord.gg/ThJUGASz**
 
 
-# Credits & Resources
-Team:
+# 製作人員 & 資源
+團隊:
 Mallöris    K3ndo    Bavari    Gendelo
 
-Former Team Members:
+前團隊成員:
 Eisbison (GOAT)    Thunderstorm584    EndOfFile
 
-Additional Devs:
+其他開發人員:
 EnoPM    twix    NesTT
 
-Github Contributors:
+Github 貢獻者:
 Alex2911    amsyarasyiq    MaximeGillot
 Psynomit    probablyadnf    JustASysAdmin
 
-[Discord](https://discord.gg/77RkMJHWsM]Discord) Moderators:</b>
-Draco Cordraconis    Streamblox (formerly)
-Thanks to all our discord helpers!
+[Discord](https://discord.gg/77RkMJHWsM]Discord) 版主:</b>
+Draco Cordraconis    Streamblox (前)
+感謝我們所有的 Discord 幫手！
 
-Thanks to miniduikboot & GD for hosting modded servers (and so much more)
+感謝 miniduikboot 和 GD 託管修改後的伺服器（以及更多）
 
 
 [OxygenFilter](https://github.com/NuclearPowered/Reactor.OxygenFilter) - For all the versions between v2.3.0 and v2.6.1, we were using the OxygenFilter for automatic deobfuscation\
@@ -928,8 +925,8 @@ Thanks to miniduikboot & GD for hosting modded servers (and so much more)
 - 最多 23 個短任務
 - 最多 15 個長任務
 
-Please note, that if the configured option exceeds the available number of tasks of a map, the tasks will be limited to that number of tasks. \
-Example: If you configure 4 common tasks on Airship crewmates will only receive 2 common tasks, as airship doesn't offer more than 2 common tasks.
+請注意，如果配置的選項超出了地圖的可用任務數，則任務將限制該任務數。
+例如：如果您在airship上設定 4 個普通任務，則船員只會有 2 個普通任務，像是airship沒有超過 2 個普通任務。
 
 | 地圖 | 普通任務 | 短任務 | 長任務 |
 |----------|:-------------:|:-------------:|:-------------:|
@@ -937,6 +934,7 @@ Example: If you configure 4 common tasks on Airship crewmates will only receive 
 | Mira HQ | 2 | 13 | 11
 | Polus | 4 | 14 | 15
 | Airship | 2 | 23 | 15
+| Fungle | ? | ? | ? 
 -----------------------
 
 ### 隨機地圖
