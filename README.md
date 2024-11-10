@@ -3,7 +3,7 @@
 
 [![en](https://img.shields.io/static/v1?label=lang&message=en&color=blue&style=for-the-badge)](./README.Elglish.md)
 
-This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.</p>
+這些模組不隸屬於 Among Us 或 Innersloth LLC，其包含的內容也未得到 Innersloth LLC 的認可或以其他方式贊助。此處包含的部分材料是Innersloth LLC的財產。</p>
 <p align="center">
   To other mod devs: for usage of our code, please read and respect the <a href="#license">license</a></p>
 
