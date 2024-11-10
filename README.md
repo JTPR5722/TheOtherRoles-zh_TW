@@ -136,7 +136,7 @@
   <summary>點擊查看變更紀錄</summary>
   
   
-** 版本 4.6.0**
+**版本 4.6.0**
 - Updated to Among Us version 2024.6.18 (Vanilla Update with new UI elements and many Server Side Changes)
 - Added a completely new UI for the Mod's Options, using the new Vanilla Design.
 - Added a button to switch gamemodes in the lobby
@@ -795,8 +795,8 @@
 1. 下載最新[版本](https://github.com/Eisbison/TheOtherRoles/releases/latest)
 2. 找到你的遊戲的資料夾。您可以右鍵單擊庫中的遊戲，會出現一個選單，單擊屬性，本地數據，瀏覽
 3. 返回 common 資料夾並複製您的“Among Us”遊戲資料夾並將其貼上到同一磁碟機上的某個位置。
-4. 現在解壓縮並將檔案從 .zip 拖曳到您剛剛複製的「Among Us」遊戲資料夾中.exe（就在資料夾中）。
-5. 透過從此資料夾啟動 .exe 來運行遊戲（首次啟動可能需要一段時間）。
+4. 現在解壓縮並將檔案從 `.zip` 拖曳到您剛剛複製的「Among Us」遊戲資料夾中`.exe`（就在資料夾中）。
+5. 透過從此資料夾啟動 `.exe` 來運行遊戲（首次啟動可能需要一段時間）。
 
 不工作？您可能想要安裝依賴項[vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
@@ -949,10 +949,9 @@ The random map presets can still be used like normal presets, if you **關閉** 
 
 
 
-# 自定義帽子
-## Create and submit new hat designs
-We're awaiting your creative hat designs and we'll integrate all the good ones in our mod.
-Here are a few instructions, on how to create a custom hat:
+# 訂製帽子
+## 創建並提交新的帽子設計
+我們正在等待您的創意帽子設計，我們將所有好的設計整合到我們的模組中。以下是有關如何創建定製帽子的一些說明：
 
 - **Creation:** A hat consists of up to three textures. The aspect ratio of the textures has to be `4:5`, we recommend `300px:375px`:
   - `Main texture (required)`:
