@@ -1,7 +1,7 @@
 ![eisbison banner](./Images/TOR_logo.png)
 <p align="center"><a href="https://github.com/bluegreensea/TheOtherRoles-zh_TW/releases/"><img src="https://badgen.net/github/release/bluegreensea/theotherroles-zh_TW"></a></p>
 
-[![en](https://img.shields.io/static/v1?label=lang&message=en&color=blue&style=for-the-badge)](./README.md)
+[![en](https://img.shields.io/static/v1?label=lang&message=en&color=blue&style=for-the-badge)](./README.Elglish.md)
 
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.</p>
 <p align="center">
