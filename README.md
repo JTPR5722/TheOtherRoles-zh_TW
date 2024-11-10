@@ -2252,16 +2252,14 @@ VIP會在他死時向所有人發出類似於靈媒閃光的閃爍。\
 |  | -                       | 搜尋冷卻 | -
 |  | -               | 搜尋持續時間 | -
 
-## GCERROR
-If the error message "Fatal Error in GC - Collecting from unknown thread" stops you from playing the game, you can now disable the mod-updater, which causes this error.
-In order to do this, create a file called `noupdater.txt` in your modded Among Us folder.
+## GC錯誤
+如果錯誤訊息「GC 中的致命錯誤 - 從未知線程收集」阻止您玩遊戲，您現在可以停用導致此錯誤的 mod-updater。
+為此，請在你的模組Among Us資料夾中一個叫`noupdater.txt` 的文件。
 
 # 許可證
-TheOtherRolesAU/TheOtherRoles is licensed under the
+TheOtherRolesAU/TheOtherRoles 已獲得[GNU General Public License v3.0](https://github.com/TheOtherRolesAU/TheOtherRoles/blob/main/LICENSE)的許可
 
-[GNU General Public License v3.0](https://github.com/TheOtherRolesAU/TheOtherRoles/blob/main/LICENSE)
-
-Permissions of this strong copyleft license are conditioned on making available **complete source code of licensed works and modifications**, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+這種強大的 Copyleft 許可證的許可條件是提供**許可作品和修改的完整原始碼**，其中包括在同一許可下使用許可作品的較大作品。必須保留版權和許可聲明。貢獻者明確授予專利權。
 
 # Copyedit
-Thanks for fixing our typos [jacktose](https://github.com/jacktose) ✌️
+感謝你修復我們的拼字錯誤 [jacktose](https://github.com/jacktose) ✌️
